@@ -31,10 +31,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>  
 
-<p align="justify">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipegenaro&show_icons=true&count_private=true&theme=radical&border_radius=9&hide=issues,contribs&include_all_commits=true&count_private=true" />
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegenaro&layout=compact&theme=radical&border_radius=9&langs_count=10" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=felipegenaro&show_icons=true&count_private=true&theme=radical&border_radius=9&hide=issues,contribs&include_all_commits=true&count_private=true&card_width=445" />
 
-[![Wakatime Last Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=FelipeGenaro&layout=compact&theme=radical&border_radius=9&range=last_7_days&custom_title=Wakatime%20Last%20Week%20Stats)](https://wakatime.com/@FelipeGenaro)
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegenaro&layout=compact&theme=radical&border_radius=9&langs_count=10&card_width=445" />
 
+[![Wakatime Last Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=FelipeGenaro&layout=compact&theme=radical&border_radius=9&range=last_7_days&custom_title=Wakatime%20Last%20Week%20Stats&card_width=445)](https://wakatime.com/@FelipeGenaro)
+</div>
